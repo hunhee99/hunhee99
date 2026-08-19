@@ -22,12 +22,8 @@
   <h2> 🧑‍💻 Contact me </h2>
   <br>
   <div align="center">
-    <a href="mailto:hunhee9982@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-    </a>
-    <a href="https://smellplay.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
-    </a>
+    <a href="mailto:hunhee9982@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="https://smellplay.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
   </div>
   <br>
 </div>

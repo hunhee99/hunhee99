@@ -35,7 +35,7 @@
 <div align="center">
   <h2> 🏅 Stats </h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hunhee99&custom_title=hunhee99's%20Github%20Stats&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunhee99&layout=compact&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-mu-ten-47.vercel.app/api?username=hunhee99&custom_title=hunhee99's%20Github%20Stats&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats-mu-ten-47.vercel.app/api/top-langs/?username=hunhee99&layout=compact&theme=github_dark&hide_border=true" />
   </div>
 </div>

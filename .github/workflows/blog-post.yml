@@ -2,8 +2,8 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 6시간마다 자동 갱신
-  workflow_dispatch:         # Actions 탭에서 수동 실행 가능
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,8 +12,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://smellplay.tistory.com/rss"
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+          accept_header: "application/rss+xml, application/xml, text/xml, */*"

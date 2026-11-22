@@ -6,9 +6,21 @@
 
 <div align="center">
   <h2> 🛠️ Tech Stacks </h2>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,mysql&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,nextjs,html,css&theme=dark" />
+
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle&theme=dark" />
+
+  <h4>Database</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+
+  <h4>Infra / DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux&theme=dark" />
+
+  <h4>AI</h4>
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,postman,obsidian&theme=dark" />
 </div>
 
 <div align="center">

@@ -8,10 +8,10 @@
   <h2> 🛠️ Tech Stacks </h2>
 
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle&theme=dark" />
 
   <h4>Database</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
 
   <h4>Infra / DevOps</h4>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux&theme=dark" />

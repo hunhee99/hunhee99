@@ -18,10 +18,12 @@
 </div>
 
 <div align="center">
-  <h2> 📝 Latest Blog Posts </h2>
+  <h2> 👾 Contributions </h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hunhee99/hunhee99/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hunhee99/hunhee99/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hunhee99/hunhee99/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
